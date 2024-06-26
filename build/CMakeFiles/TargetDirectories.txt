@@ -1,0 +1,3 @@
+/home/a2zproviders/Desktop/cpp/cpp-deaily/cmake-configuration/build/CMakeFiles/rebuild_cache.dir
+/home/a2zproviders/Desktop/cpp/cpp-deaily/cmake-configuration/build/CMakeFiles/edit_cache.dir
+/home/a2zproviders/Desktop/cpp/cpp-deaily/cmake-configuration/build/CMakeFiles/my_executable.dir
